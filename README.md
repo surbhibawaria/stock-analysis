@@ -17,11 +17,13 @@ The stock performance between 2017 and 2018, as well as the execution times of t
 
 ### Stock analysis performance of 2017 vs 2018
 
-For 2017, it can be seen that eleven out of the twelve stocks are positive and only one stock ticker 'TERP' is negative in terms of the yearly return. On the other hand for the year 2018, most of the stocks are negative and only two stock tickers, 'ENPH' and 'RUN' is positive. 'DQ', the oringinal stock that Steve's parents were interested in had a great year with 199.4% return in 2017. But in 2018, the yearly return dropped to 62.6%. 
+For 2017, it can be seen that eleven out of the twelve stocks are positive and only one stock ticker 'TERP' is negative in terms of the yearly return. On the other hand for the year 2018, most of the stocks are negative and only two stock tickers, 'ENPH' and 'RUN' is positive. 'DQ', the oringinal stock that Steve's parents were interested in had a great year with 199.4% return in 2017. But in 2018, the yearly return dropped to 62.6%. To understand the stocks little better, let's take few examples of the stock tickers and comapre their valuation for both years below.
 
 
 <img width="504" alt="AllStockAnalysis_2017" src="https://user-images.githubusercontent.com/95826875/148581869-e121ba67-fe36-4b7d-9836-78ee60ed709c.png">
 <img width="504" alt="AllStockAnalysis_2018" src="https://user-images.githubusercontent.com/95826875/148581892-298adfb3-6ff5-40dd-a9c0-db57ee17fe51.png">
+
+
 
 
 
