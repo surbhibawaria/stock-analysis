@@ -48,5 +48,4 @@ Code refactoring is defined as the process of restructuring code without changin
 
 
 
-
 ### How does pros and Cons apply to refactoring the original VBA script
