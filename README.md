@@ -9,5 +9,12 @@ The purpose of this analysis is to help Steve understand the market trends. Macr
 
 ## Results
 
+### Stock analysis performance between 2017 and 2018
+
+### Comparision between execution times of the original script and the refactored script.
 
 ## Summary
+
+### The advantages or disadvantages of refactoring code
+
+### How does pros and Cons apply to refactoring the original VBA script
