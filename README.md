@@ -25,8 +25,7 @@ To understand these stocks little better, let's take few examples of the stock t
 
 ### Comparision between execution times of the original script and the refactored script
 
-Refactoring is a vital part of any coding process. In this analysis code refactoring played a major role. The original script used nested for loop to run the analysis for each stock's total volume, starting, and ending price
-
+Refactoring is a vital part of any coding process. In this analysis code refactoring played a major role. The original code ran in 0.25 seconds for the year 2017 and 0.25 seconds for the year 2018 as well. However, the refactored code ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. 
 ## Summary
 
 ### The advantages or disadvantages of refactoring code
