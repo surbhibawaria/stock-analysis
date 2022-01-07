@@ -47,8 +47,15 @@ The process of restructuring code without changing or adding to its external beh
 
 #### _Advantages_
 
+1. Code refactoring makes the code more extensible, allowing for the addition of many more functions. It also aids in increasing the flexibility of the code, thereby increasing the capability of the code.
 
+2. The code becomes cleaner, easier to understand or read, less complex, and easier to maintain after refactoring.
 
+#### _Disadvantages_
+
+1. One may have no idea how long it will take to complete the procedure of refactoring. It may also put one in a situation where they don't know where to go.
+
+2. If something goes wrong while refactoring, one will have to spend a lot more time fixing it, and there's a good chance it'll go wrong due to the code's complexity.
 
 
 ### How does Pros and Cons apply to Refactoring the Original VBA Script
