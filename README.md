@@ -14,6 +14,8 @@ The stock performance between 2017 and 2018, as well as the execution times of t
 
 ### Stock analysis performance of 2017 vs 2018
 
+For 2017, it can be seen that eleven out of twelve stocks are positive and only one stock ticker 'TERP' is negative in terms of return. 
+
 
 <img width="610" alt="StockAnalysis_2017" src="https://user-images.githubusercontent.com/95826875/148576039-c6b21e29-b563-4f92-81c9-2e7af9bdb8f5.png">
 
