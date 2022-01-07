@@ -41,6 +41,12 @@ The illustration of original script vs refactored script will be discussed in th
 
 ## Summary
 
+Code refactoring is defined as the process of restructuring code without changing or adding to its external behavior and functionality. The idea is to transform inefficient and the over-complicated code to more efficient, preferably simpler and easier code.
+
 ### The advantages or disadvantages of refactoring code
+
+
+
+
 
 ### How does pros and Cons apply to refactoring the original VBA script
