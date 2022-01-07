@@ -59,3 +59,12 @@ The process of restructuring code without changing or adding to its external beh
 
 
 ### How does Pros and Cons apply to Refactoring the Original VBA Script
+
+#### _Original Script_
+
+<img width="660" alt="Original_Script" src="https://user-images.githubusercontent.com/95826875/148611414-f909c683-91df-446a-9cd4-94b8cf00aad7.png">
+
+#### _Refactored Script_
+
+<img width="671" alt="Refactored_Script" src="https://user-images.githubusercontent.com/95826875/148611446-50fc0131-3ffa-40d2-8233-13d52f54242a.png">
+
