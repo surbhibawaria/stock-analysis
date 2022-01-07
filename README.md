@@ -9,7 +9,12 @@ The purpose of this analysis is to help Steve understand the market trends. Macr
 
 ## Results
 
-### Stock analysis performance between 2017 and 2018
+The stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script are compared.
+
+
+### Stock analysis performance of 2017 and 2018
+
+
 
 ### Comparision between execution times of the original script and the refactored script.
 
