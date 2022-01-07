@@ -14,7 +14,7 @@ Macros are created in VBA to analyze the stock data that would be easily accessi
 
 The stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script are compared.
 
-### Stock analysis performance of 2017 vs 2018
+### Stock Analysis Performance of 2017 vs 2018
 
 For 2017, it can be seen that eleven out of the twelve stocks are positive and only one stock ticker 'TERP' is negative in terms of the yearly return. On the other hand for the year 2018, most of the stocks are negative and only two stock tickers, 'ENPH' and 'RUN' is positive. 'DQ', the initail stock that Steve's parents were interested in had a great year with 199.4% return in 2017. But in 2018, the yearly return dropped to 62.6%. 
 
@@ -23,16 +23,16 @@ To understand these stocks little better, let's take few examples of the stock t
 <img width="504" alt="AllStockAnalysis_2017" src="https://user-images.githubusercontent.com/95826875/148581869-e121ba67-fe36-4b7d-9836-78ee60ed709c.png">
 <img width="504" alt="AllStockAnalysis_2018" src="https://user-images.githubusercontent.com/95826875/148581892-298adfb3-6ff5-40dd-a9c0-db57ee17fe51.png">
 
-### Comparision between execution times of the original script and the refactored script
+### Comparision between Execution Times of the Original Script and the Refactored Script
 
 Refactoring is a vital part of any coding process. In this analysis, code refactoring played a major role. The original script ran in 0.2539062 seconds for the year 2017 and 0.2578125 seconds for the year 2018 as well. However, the refactored script ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. For both the years refactored code ran faster which can be seen below.
 
-#### _Execution time of the original script_
+#### _Execution Time of the Original Script_
 
 <img width="901" alt="RunTime_2017" src="https://user-images.githubusercontent.com/95826875/148605486-e4aca298-1ded-4e99-9279-ffc01763287b.png">
 <img width="907" alt="RunTime_2018" src="https://user-images.githubusercontent.com/95826875/148605494-af6be53c-4395-4669-8cd1-9a59234e0f91.png">
 
-#### _Execution time of the refactored script_
+#### _Execution Time of the Refactored Script_
 
 <img width="767" alt="RunTimeRefactored_2017" src="https://user-images.githubusercontent.com/95826875/148605813-f8b4a7a3-1b32-4753-bf25-25f1b146590a.png">
 <img width="723" alt="RunTimeRefactored_2018" src="https://user-images.githubusercontent.com/95826875/148605824-50a96cea-31cb-4573-a394-56abf92c57cc.png">
@@ -41,11 +41,14 @@ The illustration of original script vs refactored script will be discussed in th
 
 ## Summary
 
-The process of restructuring code without changing or adding to its external behavior and functionality is known as code refactoring. The goal is to convert inefficient and overly complicated code into more efficient code that is preferably simpler and easier to understand.
+The process of restructuring code without changing or adding to its external behavior and functionality is known as _Code Refactoring_. The goal is to convert inefficient and overly complicated code into more efficient code that is preferably simpler and easier to understand.
 
-### The advantages or disadvantages of refactoring code
+### The Advantages and Disadvantages of Refactoring code
+
+#### _Advantages_
 
 
 
 
-### How does pros and Cons apply to refactoring the original VBA script
+
+### How does Pros and Cons apply to Refactoring the Original VBA Script
