@@ -60,6 +60,8 @@ The process of restructuring code without changing or adding to its external beh
 
 ### How does Pros and Cons apply to Refactoring the Original VBA Script
 
+If we look at the codes below, the original script used nested loops while the refactored code used arrays. Although nested loops are an effective way of doing it they do take longer to execute. Like here in the loop below, the code runs through each record of the data set once for each ticker category which is time-consuming and certainly possible here as there are only twelve categories. So, to refactor arrays are created to reduce the time as the code now access each data row only once.
+
 #### _Original Script_
 
 <img width="660" alt="Original_Script" src="https://user-images.githubusercontent.com/95826875/148611414-f909c683-91df-446a-9cd4-94b8cf00aad7.png">
