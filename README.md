@@ -8,7 +8,7 @@ Steve who is recently graduated with his finance degree, wanted to look into Daq
 
 The purpose of this analysis is to help Steve understand the market trends. Also, to do a little more research for his parents, as Steve wants to expand the dataset to include the entire stock market over the last few years. And to refactor the code so that it doesn't take a long time to execute.
 
-Macros are created in VBA to analyze the stock data that would be easily accessible for Steve. _Total Daily Volume_ and yearly _Return_ is identified for each of the twelve stocks for the years 2017 and 2018. Conditional formatting is used to highlight the positive (through Green color) and negative (through Red color) returns. Interface is created so that at the click of a button, Steve can analyze the entire dataset. During the analysis two macros are created, the original script which was created from the module, and a refactored version of that script to determine whether refactoring the code made the VBA script run faster.
+Macros are created in VBA to analyze the stock data that would be easily accessible for Steve. _Total Daily Volume_ and yearly _Return_ is identified for each of the twelve stocks for the years 2017 and 2018. Conditional formatting is used to highlight the positive (through Green color) and negative (through Red color) returns. Interface is created so that at the click of a button, Steve can analyze the entire dataset. During the analysis two macros are created, the original script which was created from the module, and afterwards a refactored version of that script is created to determine whether refactoring the code made the VBA script run faster.
 
 ## Results
 
