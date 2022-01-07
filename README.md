@@ -25,7 +25,19 @@ To understand these stocks little better, let's take few examples of the stock t
 
 ### Comparision between execution times of the original script and the refactored script
 
-Refactoring is a vital part of any coding process. In this analysis code refactoring played a major role. The original code ran in 0.25 seconds for the year 2017 and 0.25 seconds for the year 2018 as well. However, the refactored code ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. for both the years refactored code ran faster which can be seen below 
+Refactoring is a vital part of any coding process. In this analysis code refactoring played a major role. The original code ran in 0.2539062 seconds for the year 2017 and 0.2578125 seconds for the year 2018 as well. However, the refactored code ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. for both the years refactored code ran faster which can be seen below.
+
+#### _Execution time of the original script_
+
+<img width="901" alt="RunTime_2017" src="https://user-images.githubusercontent.com/95826875/148605486-e4aca298-1ded-4e99-9279-ffc01763287b.png">
+<img width="907" alt="RunTime_2018" src="https://user-images.githubusercontent.com/95826875/148605494-af6be53c-4395-4669-8cd1-9a59234e0f91.png">
+
+
+#### _Execution time of the refactored script_
+
+<img width="767" alt="RunTimeRefactored_2017" src="https://user-images.githubusercontent.com/95826875/148605813-f8b4a7a3-1b32-4753-bf25-25f1b146590a.png">
+<img width="723" alt="RunTimeRefactored_2018" src="https://user-images.githubusercontent.com/95826875/148605824-50a96cea-31cb-4573-a394-56abf92c57cc.png">
+
 
 
 ## Summary
