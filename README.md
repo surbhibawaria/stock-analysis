@@ -23,9 +23,9 @@ To understand these stocks little better, let's take few examples of the stock t
 <img width="504" alt="AllStockAnalysis_2017" src="https://user-images.githubusercontent.com/95826875/148581869-e121ba67-fe36-4b7d-9836-78ee60ed709c.png">
 <img width="504" alt="AllStockAnalysis_2018" src="https://user-images.githubusercontent.com/95826875/148581892-298adfb3-6ff5-40dd-a9c0-db57ee17fe51.png">
 
-### Comparision between execution times of the original script and the refactored script.
+### Comparision between execution times of the original script and the refactored script
 
-
+Refactoring is a vital part of any coding process. In this analysis code refactoring played a major role. The original script used nested for loop to run the analysis for each stock's total volume, starting, and ending price
 
 ## Summary
 
