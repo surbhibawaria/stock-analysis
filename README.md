@@ -49,7 +49,7 @@ The process of restructuring code without changing or adding to its external beh
 
 1. Code refactoring makes the code more extensible, allowing for the addition of many more functions. It also aids in increasing the flexibility of the code, thereby increasing the capability of the code.
 
-2. The code becomes cleaner, easier to understand or read, less complex, and easier to maintain after refactoring.
+2. It makes the code cleaner, easier to understand or read, less complex, and easier to maintain after refactoring.
 
 #### _Disadvantages_
 
