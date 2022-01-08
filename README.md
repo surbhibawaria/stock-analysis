@@ -25,7 +25,7 @@ To understand these stocks little better, let's take few examples of the stock t
 
 ### Comparision between Execution Times of the Original Script and the Refactored Script
 
-Refactoring is a vital part of any coding process. In this analysis, code refactoring played a major role. The original script ran in 0.2539062 seconds for the year 2017 and 0.2578125 seconds for the year 2018 as well. However, the refactored script ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. For both the years refactored code ran faster which can be seen below.
+Refactoring is a vital part of any coding process. In this analysis, code refactoring played a major role. The original script ran in 0.2539062 seconds for the year 2017 and 0.2578125 seconds for the year 2018. However, the refactored script ran in 0.0625 seconds for the year 2017 and 0.0703125 seconds for the year 2018. For both the years refactored code ran faster which can be seen below.
 
 #### _Execution Time of the Original Script_
 
